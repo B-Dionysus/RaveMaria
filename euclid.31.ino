@@ -1,5 +1,5 @@
 #define CURRENTVERSION 31
-
+// Now using Gir and github!!
 // This is calibration data for the raw touch data to the screen coordinates
 #define TS_MINX 150
 #define TS_MINY 130
